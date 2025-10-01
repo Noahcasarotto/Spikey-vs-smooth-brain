@@ -77,7 +77,7 @@ This principle has been proven independently across multiple fields:
 
 ### When to Be Spiky (Convex Payoffs, RTP > 1)
 
-✅ **Concentration is optimal when:**
+**Concentration is optimal when:**
 - Returns are super-linear (f(x) = x², exponential)
 - Winner-take-most markets
 - Breakthrough-driven fields
@@ -88,7 +88,7 @@ This principle has been proven independently across multiple fields:
 
 ### When to Be Spherical (Concave Payoffs, RTP < 1)
 
-❌ **Diversification is optimal when:**
+**Diversification is optimal when:**
 - Returns are sub-linear (f(x) = √x, log(x))
 - Diminishing marginal returns
 - Weakest-link systems
@@ -194,7 +194,7 @@ lake build SpikyVsSpherical
 
 ## Current Status
 
-✅ **Complete**:
+**Complete**:
 - Full project structure with Lake build system
 - All core definitions
 - Main theorems stated with types
@@ -202,7 +202,7 @@ lake build SpikyVsSpherical
 - Historical context and applications documented
 - Compiles without linter errors
 
-🚧 **In Progress**:
+**In Progress**:
 - Some proofs use `sorry` and require:
   - Slope monotonicity lemmas from Mathlib
   - Jensen's inequality applications

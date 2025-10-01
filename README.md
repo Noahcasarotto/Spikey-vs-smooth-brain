@@ -2,9 +2,9 @@
 
 Formal proof that **under convex returns, being "spiky" (excellent at 1-2 things) beats being "spherical" (well-rounded)**.
 
-## 📁 Two Versions
+## Two Versions
 
-### 🎯 `simplified/` - Start Here!
+### `simplified/` - Start Here!
 
 **Clean, minimal, easy to understand**
 - One file: ~100 lines
@@ -12,9 +12,9 @@ Formal proof that **under convex returns, being "spiky" (excellent at 1-2 things
 - Same mathematical rigor
 - Perfect for learning
 
-👉 **[Go to Simplified Version](./simplified/)**
+**[Go to Simplified Version](./simplified/)**
 
-### 🏆 `Noah's bad folder/` - Complete Version
+### `Noah's bad folder/` - Complete Version
 
 **Comprehensive formalization**
 - 20 theorems, all proven
@@ -23,13 +23,13 @@ Formal proof that **under convex returns, being "spiky" (excellent at 1-2 things
 - 500+ lines of code
 - 2000+ lines of documentation
 
-👉 **[Go to Complete Version](./Noah's%20bad%20folder/)**
+**[Go to Complete Version](./Noah's%20bad%20folder/)**
 
 ## The Claim
 
 > "After clearing minimum bars, if payoffs are convex (super-linear returns), concentrate effort on 1-2 areas rather than spreading evenly."
 
-**Status**: ✅ **100% Formally Verified**
+**Status**: **100% Formally Verified**
 
 ## Quick Start
 
@@ -47,14 +47,14 @@ cd "Noah's bad folder"/
 
 ## What's Proven
 
-### Core Mathematical Result ✅
+### Core Mathematical Result
 ```
 Convex f → marginal_gains_increase → spiky_optimal
 Concave f → marginal_gains_decrease → spherical_optimal
 Linear f → marginal_gains_constant → indifferent
 ```
 
-### Real-World Applications ✅
+### Real-World Applications
 - **VC Strategy**: Power-law returns favor spiky founders
 - **Career Development**: Excel at 1-2 things in convex-reward fields
 - **Startup Strategy**: Dominate one niche before expanding
@@ -87,8 +87,8 @@ cd "Noah's bad folder"/ && lake build
 
 | Version | Lines | Theorems | Status |
 |---------|-------|----------|--------|
-| **Simplified** | ~100 | 1 core + 3 apps | ✅ Complete |
-| **Full** | ~500 | 20 theorems | ✅ Complete |
+| **Simplified** | ~100 | 1 core + 3 apps | Complete |
+| **Full** | ~500 | 20 theorems | Complete |
 
 Both: **0 axioms, 0 sorry, 100% verified**
 
@@ -102,7 +102,7 @@ Both: **0 axioms, 0 sorry, 100% verified**
 - 1906: Jensen (first proof)
 - 1932: Karamata (generalization)
 - 1934: Hardy-Littlewood-Pólya (Schur-convexity)
-- 2024: This formalization (machine-verified) ✅
+- 2024: This formalization (machine-verified)
 
 ## Which Version Should I Use?
 
@@ -132,5 +132,5 @@ GitHub: github.com/Noahcasarotto/Spikey-vs-smooth-brain
 
 ---
 
-**The tweet was right. The math is rigorous. The verification is complete.** ✅
+**The tweet was right. The math is rigorous. The verification is complete.**
 

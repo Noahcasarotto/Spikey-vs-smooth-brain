@@ -27,14 +27,14 @@ theorem marginal_gains_increase_for_convex
 ## Why It Matters
 
 ### Convex Payoffs (RTP > 1) → Be Spiky
-- **VC Strategy**: Power-law returns → back spiky founders ✓
-- **Careers**: Super-linear rewards → excel at 1-2 things ✓
-- **Startups**: Winner-take-most → dominate one niche ✓
+- **VC Strategy**: Power-law returns → back spiky founders
+- **Careers**: Super-linear rewards → excel at 1-2 things
+- **Startups**: Winner-take-most → dominate one niche
 
 ### Concave Payoffs (RTP < 1) → Be Spherical  
-- **Risk Management**: Diminishing returns → diversify ✓
-- **Portfolio Theory**: Concave utility → spread investments ✓
-- **Robust Systems**: Weakest link matters → balance all parts ✓
+- **Risk Management**: Diminishing returns → diversify
+- **Portfolio Theory**: Concave utility → spread investments
+- **Robust Systems**: Weakest link matters → balance all parts
 
 ## The Math
 
